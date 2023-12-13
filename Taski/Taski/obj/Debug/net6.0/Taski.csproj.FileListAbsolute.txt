@@ -1,0 +1,14 @@
+C:\Users\vanya\source\repos\Taski\Taski\bin\Debug\net6.0\Taski.exe
+C:\Users\vanya\source\repos\Taski\Taski\bin\Debug\net6.0\Taski.deps.json
+C:\Users\vanya\source\repos\Taski\Taski\bin\Debug\net6.0\Taski.runtimeconfig.json
+C:\Users\vanya\source\repos\Taski\Taski\bin\Debug\net6.0\Taski.dll
+C:\Users\vanya\source\repos\Taski\Taski\bin\Debug\net6.0\Taski.pdb
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.AssemblyInfo.cs
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.dll
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\refint\Taski.dll
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.pdb
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\Taski.genruntimeconfig.cache
+C:\Users\vanya\source\repos\Taski\Taski\obj\Debug\net6.0\ref\Taski.dll
