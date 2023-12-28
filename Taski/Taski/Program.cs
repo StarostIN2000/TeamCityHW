@@ -8,7 +8,7 @@ class Program
     }
     static void Main(string[] args)
     {
-        Console.WriteLine("Привет, мир!");
+        Console.WriteLine("Привет, мир!"); asd
 
         Console.WriteLine($"2^10 = " + Math.Pow(2, 10));
 
